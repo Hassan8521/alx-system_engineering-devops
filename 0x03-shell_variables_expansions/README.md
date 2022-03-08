@@ -1,0 +1,1 @@
+File 0-alias Create a script that creates an alias  where Name is ls and the value is rm * .
