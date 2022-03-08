@@ -3,3 +3,5 @@ File 0-alias Create a script that creates an alias  where Name is ls and the val
 File 1-hello_you create a script that print hello_user is current linux user.
 
 File 2-path add /action to the PATH.
+
+file 3-paths Create a script that counts the number of directories in the PATH.
