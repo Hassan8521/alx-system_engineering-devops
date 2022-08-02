@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+#Script that generate best school ten times
+
+for i in {0..9};
+ do
+	 echo "Best School"
+ done 
